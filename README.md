@@ -2,6 +2,9 @@
 
 A modern Todo application built with React, Redux, and Tailwind CSS. This app provides a clean and responsive interface for managing tasks with ease.
 
+![ss1](https://github.com/user-attachments/assets/d07de860-c4ac-4b10-88c6-da0d4e522e47)
+![ss2](https://github.com/user-attachments/assets/7dccd02a-b2cb-48b9-a8b7-1be7dbd65f6a)
+
 
 ## Features
 
